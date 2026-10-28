@@ -1,0 +1,2 @@
+sympy>=1.12
+jupyterlab>=4
